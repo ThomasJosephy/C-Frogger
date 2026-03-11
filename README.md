@@ -1,4 +1,4 @@
-# C-Frogger
+# C++ Frogger
 
 A Frogger game clone written in C++ using the FLTK (Fast Light Toolkit) graphical interface library. 
 
